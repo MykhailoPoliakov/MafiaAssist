@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Bob",
+      "role": null,
+      "target": null
+    },
+    {
+      "name": "Bob",
+      "role": null,
+      "target": null
+    },
+    {
+      "name": "Misha",
+      "role": null,
+      "target": null
+    },
+    {
+      "name": "Bob",
+      "role": null,
+      "target": null
+    },
+    {
+      "name": "Misha",
+      "role": null,
+      "target": null
+    }
+  ],
+  "settings": false,
+  "results": []
+}
